@@ -1,2 +1,2 @@
 Simple text file
-Line in Github
+Line in Github for merge conflict
