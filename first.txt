@@ -1,1 +1,2 @@
 Simple text file
+Second line
